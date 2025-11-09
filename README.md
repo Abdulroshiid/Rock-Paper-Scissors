@@ -6,13 +6,11 @@ A fun and interactive Rock–Paper–Scissors game built with HTML, CSS, and Jav
 
 🎮 Interactive Gameplay – Choose Rock, Paper, or Scissors and play against the computer.
 
-🤖 Random Computer Choice – The computer generates a move automatically each round.
+🤖 Random Computer Choice – The computer chooses a choice automatically in each round.
 
 🏆 Win, Lose, or Draw Results – Instantly see who won after every round.
 
 📊 Live Score Tracking – Player and computer scores update in real time.
-
-🔄 Game Reset – Restart the game easily with a single button.
 
 📖 Instructions Modal – A pop-up guide explains how to play.
 
